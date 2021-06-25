@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshaWagh
-- 🌱 I’m currently learning PYTHON,Java
+- 🌱 I’m currently learning PYTHON,FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : drop in an email at ishawagh54@gmail.com
 
